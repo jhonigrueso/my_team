@@ -1,0 +1,546 @@
+/* PT serif */
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+/* poppins */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.content {
+  /* Team */
+  position: relative;
+  width: 1440px;
+  height: 1489px;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  margin: 0px auto;
+}
+
+h1 {
+  /* The creative crew */
+  position: absolute;
+  width: 288px;
+  height: 47px;
+  left: 243px;
+  top: 50px;
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: -0.045em;
+  color: #000000;
+}
+
+h2 {
+  /* Who we are */
+  position: absolute;
+  width: 124px;
+  height: 27px;
+  left: 936px;
+  top: 51px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.info {
+  position: absolute;
+  width: 366px;
+  height: 87px;
+  left: 936px;
+  top: 79px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+
+.img1 img {
+  /* image 13 */
+  position: absolute;
+  width: 238px;
+  height: 370px;
+  left: 230px;
+  top: 244.5px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.nombre1 {
+  /* Bill Mahoney */
+  position: absolute;
+  width: 117px;
+  height: 27px;
+  left: 230px;
+  top: 600px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.lateral1 {
+  /* Product owner */
+  position: absolute;
+  width: 103px;
+  height: 16px;
+  left: 430px;
+  top: 290px;
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height */
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.img2 img {
+  /* image 14 */
+  position: absolute;
+  width: 238px;
+  height: 370px;
+  left: 580px;
+  top: 396px;
+}
+
+.nombre2 {
+  /* Saba Cabrera */
+  position: absolute;
+  width: 128px;
+  height: 27px;
+  left: 578px;
+  top: 750px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.lateral2 {
+  /* Art director */
+  position: absolute;
+  width: 86px;
+  height: 16px;
+  left: 790px;
+  top: 431px;
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.img3 img {
+  position: absolute;
+  width: 238px;
+  height: 370px;
+  left: 950px;
+  top: 244.5px;
+}
+
+.nombre3 {
+  /* Shae Le */
+  position: absolute;
+  width: 70px;
+  height: 27px;
+  left: 949px;
+  top: 599px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.lateral3 {
+  /* Tech Lead */
+  position: absolute;
+  width: 68px;
+  height: 16px;
+  left: 1167px;
+  top: 271px;
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height */
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.img4 img {
+  /* image 13 */
+  position: absolute;
+  width: 238px;
+  height: 370px;
+  left: 230px;
+  top: 810px;
+}
+
+.nombre4 {
+  /* Skylah Lu */
+  position: absolute;
+  width: 86px;
+  height: 27px;
+  left: 228px;
+  top: 1164px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.lateral4 {
+  /* UX Designer */
+  position: absolute;
+  width: 80px;
+  height: 16px;
+  left: 443px;
+  top: 842px;
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height */
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.img5 img {
+  /* image 14 */
+  position: absolute;
+  width: 238px;
+  height: 370px;
+  left: 580px;
+  top: 944px;
+}
+
+.nombre5 {
+  /* Griff Richards */
+  position: absolute;
+  width: 124px;
+  height: 27px;
+  left: 578px;
+  top: 1298px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.lateral5 {
+  /* Developer */
+  position: absolute;
+  width: 68px;
+  height: 16px;
+  left: 797px;
+  top: 971px;
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height */
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.img6 img {
+  /* image 15 */
+  position: absolute;
+  width: 238px;
+  height: 370px;
+  left: 950px;
+  top: 796px;
+}
+
+.nombre6 {
+  /* Stan John */
+  position: absolute;
+  width: 92px;
+  height: 27px;
+  left: 948px;
+  top: 1150px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.lateral6 {
+  /* Deverloper */
+  position: absolute;
+  width: 76px;
+  height: 16px;
+  left: 1165px;
+  top: 826px;
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height */
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+footer {
+  /* created by username - devChallenges.io */
+  position: absolute;
+  width: 307px;
+  height: 17px;
+  left: 578px;
+  top: 1460px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  text-align: center;
+  color: #A9A9A9;
+}
+
+@media screen and (max-width: 760px) {
+  .content {
+    /* Rectangle 89 */
+    position: absolute;
+    width: 375px;
+    height: 1409px;
+    left: 0px;
+    top: 0px;
+  }
+  h1 {
+    /* The creative crew */
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    left: 12px;
+    top: 20px;
+  }
+  h2 {
+    /* Who we are */
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 12px;
+    top: 115px;
+    font-size: 18px;
+    line-height: 27px;
+  }
+  .info {
+    position: absolute;
+    width: 333px;
+    height: 87px;
+    left: 12px;
+    top: 150px;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .img1 img {
+    /* image 13 */
+    position: absolute;
+    width: 138px;
+    height: 200px;
+    left: 15px;
+    top: 306px;
+  }
+  .nombre1 {
+    /* Bill Mahoney */
+    position: absolute;
+    width: 128px;
+    height: 18px;
+    left: 14px;
+    top: 492px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .lateral1 {
+    /* Product owner */
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 99px;
+    top: 365px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+  .img2 img {
+    /* image 14 */
+    position: absolute;
+    width: 138px;
+    height: 200px;
+    left: 200px;
+    top: 346px;
+  }
+  .nombre2 {
+    /* Saba Cabrera */
+    position: absolute;
+    width: 141px;
+    height: 18px;
+    left: 200px;
+    top: 532px;
+    font-size: 14px;
+  }
+  .lateral2 {
+    /* Art director */
+    position: absolute;
+    width: 122px;
+    height: 10px;
+    left: 289px;
+    top: 402px;
+    font-size: 10px;
+  }
+  /* ghbiffg */
+  .img3 img {
+    /* image 13 */
+    position: absolute;
+    width: 138px;
+    height: 200px;
+    left: 15px;
+    top: 610px;
+  }
+  .nombre3 {
+    /* Bill Mahoney */
+    position: absolute;
+    width: 128px;
+    height: 18px;
+    left: 14px;
+    top: 800px;
+    font-size: 14px;
+  }
+  .lateral3 {
+    /* Product owner */
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 99px;
+    top: 668px;
+    font-size: 10px;
+  }
+  .img4 img {
+    /* image 14 */
+    position: absolute;
+    width: 138px;
+    height: 200px;
+    left: 200px;
+    top: 650px;
+  }
+  .nombre4 {
+    /* Saba Cabrera */
+    position: absolute;
+    width: 141px;
+    height: 18px;
+    left: 200px;
+    top: 838px;
+    font-size: 14px;
+  }
+  .lateral4 {
+    /* Art director */
+    position: absolute;
+    width: 122px;
+    height: 10px;
+    left: 289px;
+    top: 707px;
+    font-size: 10px;
+  }
+  .img5 img {
+    /* image 13 */
+    position: absolute;
+    width: 138px;
+    height: 200px;
+    left: 15px;
+    top: 930px;
+  }
+  .nombre5 {
+    /* Bill Mahoney */
+    position: absolute;
+    width: 128px;
+    height: 18px;
+    left: 14px;
+    top: 1120px;
+    font-size: 14px;
+  }
+  .lateral5 {
+    /* Product owner */
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 99px;
+    top: 991px;
+    font-size: 10px;
+  }
+  .img6 img {
+    /* image 14 */
+    position: absolute;
+    width: 138px;
+    height: 200px;
+    left: 200px;
+    top: 970px;
+  }
+  .nombre6 {
+    /* Saba Cabrera */
+    position: absolute;
+    width: 141px;
+    height: 18px;
+    left: 200px;
+    top: 1160px;
+    font-size: 14px;
+  }
+  .lateral6 {
+    /* Art director */
+    position: absolute;
+    width: 122px;
+    height: 10px;
+    left: 289px;
+    top: 1026px;
+    font-size: 10px;
+  }
+  footer {
+    /* created by username - devChallenges.io */
+    position: absolute;
+    width: 307px;
+    height: 17px;
+    left: 27px;
+    top: 1388px;
+    font-size: 14px;
+  }
+}
